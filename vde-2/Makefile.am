@@ -1,4 +1,4 @@
-SUBDIRS = include src man doc
+SUBDIRS = include src man doc tests
 ACLOCAL_AMFLAGS = -I m4
 
 EXTRA_DIST = Changelog COPYING COPYING.libvdeplug COPYING.slirpvde INSTALL README

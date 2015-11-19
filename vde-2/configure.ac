@@ -281,6 +281,7 @@ AC_CONFIG_FILES(
   [src/vde_vxlan/Makefile]
   [src/slirpvde/Makefile]
   [src/vde_switch/plugins/Makefile]
+  [tests/Makefile]
 )
 AC_OUTPUT
 
